@@ -3,19 +3,22 @@ using MongoDB.Bson.Serialization.Attributes;
 using Release.MongoDB.Repository;
 using Release.MongoDB.Repository.Model;
 
-namespace Ms.Servicios.Dominio.Entidades
+namespace Ms.Medico.Dominio.Entidades
 {
 
-    [CollectionProperty("Servicios")]
+    [CollectionProperty("Medico")]
     [BsonIgnoreExtraElements]
     public  class Medico : EntityToLower<ObjectId>
     {
 
 
-        public int idServicios { get; set; }
-        public string tiposervcio { get; set; }
+        public int id_medico { get; set; }
+        public string DNI { get; set; }
+        public string Nombres { get; set; }
+        public string ApePa { get; set; }
+        public string ApeMa { get; set; }
+        public string id_especialidad { get; set; }
 
-    
 
 
     }
