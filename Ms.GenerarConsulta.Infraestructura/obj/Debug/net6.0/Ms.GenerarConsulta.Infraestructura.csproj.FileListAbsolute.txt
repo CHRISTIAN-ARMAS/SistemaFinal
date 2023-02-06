@@ -1,0 +1,12 @@
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\bin\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.deps.json
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\bin\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.dll
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\bin\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.pdb
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\obj\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.csproj.AssemblyReference.cache
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\obj\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\obj\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.AssemblyInfoInputs.cache
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\obj\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.AssemblyInfo.cs
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\obj\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.csproj.CoreCompileInputs.cache
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\obj\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.dll
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\obj\Debug\net6.0\refint\Ms.GenerarConsulta.Infraestructura.dll
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\obj\Debug\net6.0\Ms.GenerarConsulta.Infraestructura.pdb
+D:\SistemaFinal\Ms.GenerarConsulta.Infraestructura\obj\Debug\net6.0\ref\Ms.GenerarConsulta.Infraestructura.dll

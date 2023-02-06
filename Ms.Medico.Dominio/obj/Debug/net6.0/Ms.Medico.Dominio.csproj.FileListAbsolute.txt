@@ -1,0 +1,12 @@
+D:\SistemaFinal\Ms.Medico.Dominio\bin\Debug\net6.0\Ms.Medico.Dominio.deps.json
+D:\SistemaFinal\Ms.Medico.Dominio\bin\Debug\net6.0\Ms.Medico.Dominio.dll
+D:\SistemaFinal\Ms.Medico.Dominio\bin\Debug\net6.0\Ms.Medico.Dominio.pdb
+D:\SistemaFinal\Ms.Medico.Dominio\obj\Debug\net6.0\Ms.Medico.Dominio.csproj.AssemblyReference.cache
+D:\SistemaFinal\Ms.Medico.Dominio\obj\Debug\net6.0\Ms.Medico.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFinal\Ms.Medico.Dominio\obj\Debug\net6.0\Ms.Medico.Dominio.AssemblyInfoInputs.cache
+D:\SistemaFinal\Ms.Medico.Dominio\obj\Debug\net6.0\Ms.Medico.Dominio.AssemblyInfo.cs
+D:\SistemaFinal\Ms.Medico.Dominio\obj\Debug\net6.0\Ms.Medico.Dominio.csproj.CoreCompileInputs.cache
+D:\SistemaFinal\Ms.Medico.Dominio\obj\Debug\net6.0\Ms.Medico.Dominio.dll
+D:\SistemaFinal\Ms.Medico.Dominio\obj\Debug\net6.0\refint\Ms.Medico.Dominio.dll
+D:\SistemaFinal\Ms.Medico.Dominio\obj\Debug\net6.0\Ms.Medico.Dominio.pdb
+D:\SistemaFinal\Ms.Medico.Dominio\obj\Debug\net6.0\ref\Ms.Medico.Dominio.dll

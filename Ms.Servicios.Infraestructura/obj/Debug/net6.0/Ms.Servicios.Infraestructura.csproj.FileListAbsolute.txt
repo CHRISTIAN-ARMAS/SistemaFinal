@@ -1,0 +1,12 @@
+D:\SistemaFinal\Ms.Servicios.Infraestructura\bin\Debug\net6.0\Ms.Servicios.Infraestructura.deps.json
+D:\SistemaFinal\Ms.Servicios.Infraestructura\bin\Debug\net6.0\Ms.Servicios.Infraestructura.dll
+D:\SistemaFinal\Ms.Servicios.Infraestructura\bin\Debug\net6.0\Ms.Servicios.Infraestructura.pdb
+D:\SistemaFinal\Ms.Servicios.Infraestructura\obj\Debug\net6.0\Ms.Servicios.Infraestructura.csproj.AssemblyReference.cache
+D:\SistemaFinal\Ms.Servicios.Infraestructura\obj\Debug\net6.0\Ms.Servicios.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFinal\Ms.Servicios.Infraestructura\obj\Debug\net6.0\Ms.Servicios.Infraestructura.AssemblyInfoInputs.cache
+D:\SistemaFinal\Ms.Servicios.Infraestructura\obj\Debug\net6.0\Ms.Servicios.Infraestructura.AssemblyInfo.cs
+D:\SistemaFinal\Ms.Servicios.Infraestructura\obj\Debug\net6.0\Ms.Servicios.Infraestructura.csproj.CoreCompileInputs.cache
+D:\SistemaFinal\Ms.Servicios.Infraestructura\obj\Debug\net6.0\Ms.Servicios.Infraestructura.dll
+D:\SistemaFinal\Ms.Servicios.Infraestructura\obj\Debug\net6.0\refint\Ms.Servicios.Infraestructura.dll
+D:\SistemaFinal\Ms.Servicios.Infraestructura\obj\Debug\net6.0\Ms.Servicios.Infraestructura.pdb
+D:\SistemaFinal\Ms.Servicios.Infraestructura\obj\Debug\net6.0\ref\Ms.Servicios.Infraestructura.dll

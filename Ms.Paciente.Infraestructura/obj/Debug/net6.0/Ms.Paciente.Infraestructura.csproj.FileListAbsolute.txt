@@ -1,0 +1,12 @@
+D:\SistemaFinal\Ms.Paciente.Infraestructura\bin\Debug\net6.0\Ms.Paciente.Infraestructura.deps.json
+D:\SistemaFinal\Ms.Paciente.Infraestructura\bin\Debug\net6.0\Ms.Paciente.Infraestructura.dll
+D:\SistemaFinal\Ms.Paciente.Infraestructura\bin\Debug\net6.0\Ms.Paciente.Infraestructura.pdb
+D:\SistemaFinal\Ms.Paciente.Infraestructura\obj\Debug\net6.0\Ms.Paciente.Infraestructura.csproj.AssemblyReference.cache
+D:\SistemaFinal\Ms.Paciente.Infraestructura\obj\Debug\net6.0\Ms.Paciente.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFinal\Ms.Paciente.Infraestructura\obj\Debug\net6.0\Ms.Paciente.Infraestructura.AssemblyInfoInputs.cache
+D:\SistemaFinal\Ms.Paciente.Infraestructura\obj\Debug\net6.0\Ms.Paciente.Infraestructura.AssemblyInfo.cs
+D:\SistemaFinal\Ms.Paciente.Infraestructura\obj\Debug\net6.0\Ms.Paciente.Infraestructura.csproj.CoreCompileInputs.cache
+D:\SistemaFinal\Ms.Paciente.Infraestructura\obj\Debug\net6.0\Ms.Paciente.Infraestructura.dll
+D:\SistemaFinal\Ms.Paciente.Infraestructura\obj\Debug\net6.0\refint\Ms.Paciente.Infraestructura.dll
+D:\SistemaFinal\Ms.Paciente.Infraestructura\obj\Debug\net6.0\Ms.Paciente.Infraestructura.pdb
+D:\SistemaFinal\Ms.Paciente.Infraestructura\obj\Debug\net6.0\ref\Ms.Paciente.Infraestructura.dll

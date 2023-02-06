@@ -1,0 +1,12 @@
+D:\SistemaFinal\Ms.Medico.Aplicacion\bin\Debug\net6.0\Ms.Medico.Aplicacion.deps.json
+D:\SistemaFinal\Ms.Medico.Aplicacion\bin\Debug\net6.0\Ms.Medico.Aplicacion.dll
+D:\SistemaFinal\Ms.Medico.Aplicacion\bin\Debug\net6.0\Ms.Medico.Aplicacion.pdb
+D:\SistemaFinal\Ms.Medico.Aplicacion\obj\Debug\net6.0\Ms.Medico.Aplicacion.csproj.AssemblyReference.cache
+D:\SistemaFinal\Ms.Medico.Aplicacion\obj\Debug\net6.0\Ms.Medico.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFinal\Ms.Medico.Aplicacion\obj\Debug\net6.0\Ms.Medico.Aplicacion.AssemblyInfoInputs.cache
+D:\SistemaFinal\Ms.Medico.Aplicacion\obj\Debug\net6.0\Ms.Medico.Aplicacion.AssemblyInfo.cs
+D:\SistemaFinal\Ms.Medico.Aplicacion\obj\Debug\net6.0\Ms.Medico.Aplicacion.csproj.CoreCompileInputs.cache
+D:\SistemaFinal\Ms.Medico.Aplicacion\obj\Debug\net6.0\Ms.Medico.Aplicacion.dll
+D:\SistemaFinal\Ms.Medico.Aplicacion\obj\Debug\net6.0\refint\Ms.Medico.Aplicacion.dll
+D:\SistemaFinal\Ms.Medico.Aplicacion\obj\Debug\net6.0\Ms.Medico.Aplicacion.pdb
+D:\SistemaFinal\Ms.Medico.Aplicacion\obj\Debug\net6.0\ref\Ms.Medico.Aplicacion.dll

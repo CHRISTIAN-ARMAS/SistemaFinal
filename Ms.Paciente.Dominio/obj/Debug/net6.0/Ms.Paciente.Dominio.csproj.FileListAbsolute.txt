@@ -1,0 +1,15 @@
+D:\SistemaFinal\Ms.Paciente.Dominio\bin\Debug\net6.0\Ms.Paciente.Dominio.deps.json
+D:\SistemaFinal\Ms.Paciente.Dominio\bin\Debug\net6.0\Ms.Paciente.Dominio.dll
+D:\SistemaFinal\Ms.Paciente.Dominio\bin\Debug\net6.0\Ms.Paciente.Dominio.pdb
+D:\SistemaFinal\Ms.Paciente.Dominio\bin\Debug\net6.0\Ms.Paciente.Infraestructura.dll
+D:\SistemaFinal\Ms.Paciente.Dominio\bin\Debug\net6.0\Ms.Paciente.Infraestructura.pdb
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\Ms.Paciente.Dominio.csproj.AssemblyReference.cache
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\Ms.Paciente.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\Ms.Paciente.Dominio.AssemblyInfoInputs.cache
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\Ms.Paciente.Dominio.AssemblyInfo.cs
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\Ms.Paciente.Dominio.csproj.CoreCompileInputs.cache
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\Ms.Paciente.Dominio.csproj.CopyComplete
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\Ms.Paciente.Dominio.dll
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\refint\Ms.Paciente.Dominio.dll
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\Ms.Paciente.Dominio.pdb
+D:\SistemaFinal\Ms.Paciente.Dominio\obj\Debug\net6.0\ref\Ms.Paciente.Dominio.dll

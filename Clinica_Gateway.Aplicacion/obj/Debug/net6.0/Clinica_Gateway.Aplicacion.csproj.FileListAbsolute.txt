@@ -1,0 +1,12 @@
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\bin\Debug\net6.0\Clinica_Gateway.Aplicacion.deps.json
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\bin\Debug\net6.0\Clinica_Gateway.Aplicacion.dll
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\bin\Debug\net6.0\Clinica_Gateway.Aplicacion.pdb
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\obj\Debug\net6.0\Clinica_Gateway.Aplicacion.csproj.AssemblyReference.cache
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\obj\Debug\net6.0\Clinica_Gateway.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\obj\Debug\net6.0\Clinica_Gateway.Aplicacion.AssemblyInfoInputs.cache
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\obj\Debug\net6.0\Clinica_Gateway.Aplicacion.AssemblyInfo.cs
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\obj\Debug\net6.0\Clinica_Gateway.Aplicacion.csproj.CoreCompileInputs.cache
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\obj\Debug\net6.0\Clinica_Gateway.Aplicacion.dll
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\obj\Debug\net6.0\refint\Clinica_Gateway.Aplicacion.dll
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\obj\Debug\net6.0\Clinica_Gateway.Aplicacion.pdb
+D:\SistemaFinal\Clinica_Gateway.Aplicacion\obj\Debug\net6.0\ref\Clinica_Gateway.Aplicacion.dll

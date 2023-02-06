@@ -1,0 +1,15 @@
+D:\SistemaFinal\Ms.Servicios.Dominio\bin\Debug\net6.0\Ms.Servicios.Dominio.deps.json
+D:\SistemaFinal\Ms.Servicios.Dominio\bin\Debug\net6.0\Ms.Servicios.Dominio.dll
+D:\SistemaFinal\Ms.Servicios.Dominio\bin\Debug\net6.0\Ms.Servicios.Dominio.pdb
+D:\SistemaFinal\Ms.Servicios.Dominio\bin\Debug\net6.0\Ms.Servicios.Infraestructura.dll
+D:\SistemaFinal\Ms.Servicios.Dominio\bin\Debug\net6.0\Ms.Servicios.Infraestructura.pdb
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\Ms.Servicios.Dominio.csproj.AssemblyReference.cache
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\Ms.Servicios.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\Ms.Servicios.Dominio.AssemblyInfoInputs.cache
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\Ms.Servicios.Dominio.AssemblyInfo.cs
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\Ms.Servicios.Dominio.csproj.CoreCompileInputs.cache
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\Ms.Servicios.Dominio.csproj.CopyComplete
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\Ms.Servicios.Dominio.dll
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\refint\Ms.Servicios.Dominio.dll
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\Ms.Servicios.Dominio.pdb
+D:\SistemaFinal\Ms.Servicios.Dominio\obj\Debug\net6.0\ref\Ms.Servicios.Dominio.dll

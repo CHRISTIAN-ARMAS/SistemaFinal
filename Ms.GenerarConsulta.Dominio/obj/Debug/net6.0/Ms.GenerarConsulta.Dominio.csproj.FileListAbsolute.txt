@@ -1,0 +1,12 @@
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\bin\Debug\net6.0\Ms.GenerarConsulta.Dominio.deps.json
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\bin\Debug\net6.0\Ms.GenerarConsulta.Dominio.dll
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\bin\Debug\net6.0\Ms.GenerarConsulta.Dominio.pdb
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\obj\Debug\net6.0\Ms.GenerarConsulta.Dominio.csproj.AssemblyReference.cache
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\obj\Debug\net6.0\Ms.GenerarConsulta.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\obj\Debug\net6.0\Ms.GenerarConsulta.Dominio.AssemblyInfoInputs.cache
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\obj\Debug\net6.0\Ms.GenerarConsulta.Dominio.AssemblyInfo.cs
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\obj\Debug\net6.0\Ms.GenerarConsulta.Dominio.csproj.CoreCompileInputs.cache
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\obj\Debug\net6.0\Ms.GenerarConsulta.Dominio.dll
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\obj\Debug\net6.0\refint\Ms.GenerarConsulta.Dominio.dll
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\obj\Debug\net6.0\Ms.GenerarConsulta.Dominio.pdb
+D:\SistemaFinal\Ms.GenerarConsulta.Dominio\obj\Debug\net6.0\ref\Ms.GenerarConsulta.Dominio.dll
